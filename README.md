@@ -5,7 +5,6 @@
 
 - 🔭 I’m currently working on **Custom Frappe apps**
 
-- 🌱 I’m currently learning **Rust**
 
 
 <p align="center">
