@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Dirk</h1>
 <h3 align="center">I like solving engineering problems and helping people with technology</h3>
 
-- 🔭 I’m currently working on Data Pipelines and Visualisation using **Kafka** and **Splunk**
+- 🔭 I’m currently working on Data Pipelines and Visualisation using **Spark**, **Kafka** and **Splunk**
 
 - 🔭 I’m currently working on **Custom Frappe apps**
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **Rust**
 
 
 <p align="center">
